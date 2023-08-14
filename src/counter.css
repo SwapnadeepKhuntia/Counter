@@ -1,0 +1,22 @@
+.counterbox{
+    height: 300px;
+    width: 350px;
+    background-color: rgb(199, 45, 45);
+    margin: auto;
+  }
+  h1{
+      font-size: 100px;
+      margin-left: 130px;
+      padding-top: 20px;
+  }
+  .counterbox div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .counterbox button{
+    padding: 15px;
+    margin:auto;
+    cursor: pointer;
+    border-radius: 10px;
+  }
